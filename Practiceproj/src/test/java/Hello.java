@@ -31,6 +31,11 @@ public class Hello {
 		System.out.println("Running");
 	}
 	
+	public static void talking()
+	{
+		System.out.println("talking");
+	}
+	
 	
 
 }
