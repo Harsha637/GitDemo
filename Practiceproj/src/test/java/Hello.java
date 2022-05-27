@@ -14,5 +14,23 @@ public class Hello {
 		
 		System.out.println("Hello git2");
 	}
+	
+	
+	public static void walking()
+	{
+		System.out.println("Walking");
+	}
+	
+	public static void drinking()
+	{
+		System.out.println("Drinking");
+	}
+	
+	public static void Running()
+	{
+		System.out.println("Running");
+	}
+	
+	
 
 }
